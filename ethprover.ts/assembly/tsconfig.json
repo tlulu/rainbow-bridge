@@ -1,0 +1,8 @@
+{
+  "allowJs": true,
+  "extends": "../node_modules/assemblyscript/std/assembly.json",
+  "include": [
+    "./**/*.ts",
+    "./node_modules/types-rlp/index.d.ts"
+  ]
+}
